@@ -1,0 +1,31 @@
+﻿{
+	"version": 1741202160,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.png",
+		"images/belle-sheet0.png",
+		"images/belle-sheet1.png",
+		"images/perrydisplay-sheet0.png",
+		"images/perrydisplay-sheet1.png",
+		"images/pooh-sheet0.png",
+		"images/pooh-sheet1.png",
+		"images/buzzzdisplay-sheet0.png",
+		"images/buzzzdisplay-sheet1.png",
+		"images/perry-sheet0.png",
+		"images/perry-sheet1.png",
+		"images/buzz-sheet0.png",
+		"images/buzz-sheet1.png",
+		"images/background-sheet0.png",
+		"images/tb_health.png",
+		"images/sp_destroy-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
